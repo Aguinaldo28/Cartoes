@@ -1,0 +1,14 @@
+C:\Users\Aguinaldo Romão\Csharp\Desafio-Cartoes\CartaoCreditoApp\bin\Debug\net9.0\CartaoCreditoAPP.exe
+C:\Users\Aguinaldo Romão\Csharp\Desafio-Cartoes\CartaoCreditoApp\bin\Debug\net9.0\CartaoCreditoAPP.deps.json
+C:\Users\Aguinaldo Romão\Csharp\Desafio-Cartoes\CartaoCreditoApp\bin\Debug\net9.0\CartaoCreditoAPP.runtimeconfig.json
+C:\Users\Aguinaldo Romão\Csharp\Desafio-Cartoes\CartaoCreditoApp\bin\Debug\net9.0\CartaoCreditoAPP.dll
+C:\Users\Aguinaldo Romão\Csharp\Desafio-Cartoes\CartaoCreditoApp\bin\Debug\net9.0\CartaoCreditoAPP.pdb
+C:\Users\Aguinaldo Romão\Csharp\Desafio-Cartoes\CartaoCreditoApp\obj\Debug\net9.0\CartaoCreditoAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aguinaldo Romão\Csharp\Desafio-Cartoes\CartaoCreditoApp\obj\Debug\net9.0\CartaoCreditoAPP.AssemblyInfoInputs.cache
+C:\Users\Aguinaldo Romão\Csharp\Desafio-Cartoes\CartaoCreditoApp\obj\Debug\net9.0\CartaoCreditoAPP.AssemblyInfo.cs
+C:\Users\Aguinaldo Romão\Csharp\Desafio-Cartoes\CartaoCreditoApp\obj\Debug\net9.0\CartaoCreditoAPP.csproj.CoreCompileInputs.cache
+C:\Users\Aguinaldo Romão\Csharp\Desafio-Cartoes\CartaoCreditoApp\obj\Debug\net9.0\CartaoCreditoAPP.dll
+C:\Users\Aguinaldo Romão\Csharp\Desafio-Cartoes\CartaoCreditoApp\obj\Debug\net9.0\refint\CartaoCreditoAPP.dll
+C:\Users\Aguinaldo Romão\Csharp\Desafio-Cartoes\CartaoCreditoApp\obj\Debug\net9.0\CartaoCreditoAPP.pdb
+C:\Users\Aguinaldo Romão\Csharp\Desafio-Cartoes\CartaoCreditoApp\obj\Debug\net9.0\CartaoCreditoAPP.genruntimeconfig.cache
+C:\Users\Aguinaldo Romão\Csharp\Desafio-Cartoes\CartaoCreditoApp\obj\Debug\net9.0\ref\CartaoCreditoAPP.dll

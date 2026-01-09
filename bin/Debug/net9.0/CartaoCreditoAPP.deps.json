@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "CartaoCreditoAPP/1.0.0": {
+        "runtime": {
+          "CartaoCreditoAPP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CartaoCreditoAPP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
